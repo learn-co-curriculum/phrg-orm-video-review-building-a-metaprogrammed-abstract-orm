@@ -7,3 +7,4 @@ This video reviews the ways to create objects and their attributes from a databa
 ## How You Can Help Us Make These Videos Better
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/orm-video-review-building-a-metaprogrammed-abstract-orm'>ORM Video Review: Building a Metaprogrammed Abstract ORM</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Building a Metaprogrammed Abstract ORM- Overview</p>
